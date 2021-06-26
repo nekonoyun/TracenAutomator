@@ -1,4 +1,4 @@
-# TrasenAutomator
+# TracenAutomator
 
 [![](https://img.shields.io/github/license/nekonoyun/EPGS-to-Discord?style=for-the-badge)](LICENSE) 
 [![](https://img.shields.io/badge/Twitter-%40nekonoyun-00acee?style=for-the-badge)](https://twitter.com/nekonoyun) 
