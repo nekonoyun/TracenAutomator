@@ -49,3 +49,7 @@ set slpTime=15
 # Usage
 
 任意のディレクトリにバッチファイルを保存して、コンテキストメニューから「管理者として実行」してください。  
+
+#### Demo
+
+![ezgif-7-478a810f2097](https://user-images.githubusercontent.com/51334430/123538886-d2a16180-d771-11eb-8b0b-83f199ab4ec0.gif)
