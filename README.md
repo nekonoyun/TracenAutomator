@@ -4,7 +4,10 @@
 [![](https://img.shields.io/badge/Twitter-%40nekonoyun-00acee?style=for-the-badge)](https://twitter.com/nekonoyun) 
 [![](https://img.shields.io/badge/Discord-%E3%82%86%E3%82%93%20%238138-7289da?style=for-the-badge)](#)
 
-DMM GAMES版 [ウマ娘 プリティーダービー](https://dmg.umamusume.jp/) およびウィンドウサイズ自動変更ツール [ウマド](https://booth.pm/ja/items/2813085), イベント選択肢の確認ツール [ウマウマクルーズ](https://github.com/amate/UmaUmaCruise) をWindows上で一括起動, 不要なウィンドウを自動で閉じるスクリプトです。  
+DMM GAMES版 [ウマ娘 プリティーダービー](https://dmg.umamusume.jp/),  
+ウィンドウサイズ自動変更ツール [ウマド](https://booth.pm/ja/items/2813085),  
+イベント選択肢の確認ツール [ウマウマクルーズ](https://github.com/amate/UmaUmaCruise)  
+以上3点をWindows上で一括起動, 不要なウィンドウを自動で閉じるスクリプトです。  
 
 # Notice
 
@@ -49,7 +52,9 @@ set slpTime=15
 # Usage
 
 任意のディレクトリにバッチファイルを保存して、コンテキストメニューから「管理者として実行」してください。  
+デスクトップ上にbatファイルのショートカットを作成して プロパティ > 「ショートカット」タブ > 詳細設定 から 「管理者として実行」にチェックを入れることで、実行時に自動でUAC認証が入るようになります。
 
 #### Demo
 
-![ezgif-7-478a810f2097](https://user-images.githubusercontent.com/51334430/123538886-d2a16180-d771-11eb-8b0b-83f199ab4ec0.gif)
+![ezgif-7-478a810f2097](https://user-images.githubusercontent.com/51334430/123538886-d2a16180-d771-11eb-8b0b-83f199ab4ec0.gif)  
+注: 開発時の様子のため、ファイル名や挙動が一部リリース版と異なる場合があります。
